@@ -1,0 +1,2 @@
+# EncodingMagic
+Some encoding tool
